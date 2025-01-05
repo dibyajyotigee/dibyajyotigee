@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @dibyajyotigee
 - 👀 You may find more about me <a href="https://dibyajyotigee.github.io/index.html">here</a>
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning French and I am learning the piano.
+- 💞️ I’m looking to collaborate on any profitable (both monetary as well as academic) venture.
+- 📫 How to reach me ...see <a href="https://dibyajyotigee.github.io/index.html">here</a>
 
 <!---
 dibyajyotigee/dibyajyotigee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
