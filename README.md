@@ -1,6 +1,8 @@
+The information on this page was last updated on 5th January 2025.
+
 - 👋 Hi, I’m @dibyajyotigee
 - 👀 You may find more about me <a href="https://dibyajyotigee.github.io/index.html">here</a>
-- 🌱 I’m currently learning French and I am learning the piano.
+- 🌱 I’m currently learning the piano and re-learning French.
 - 💞️ I’m looking to collaborate on any profitable (both monetary as well as academic) venture.
 - 📫 How to reach me ...see <a href="https://dibyajyotigee.github.io/index.html">here</a>
 
